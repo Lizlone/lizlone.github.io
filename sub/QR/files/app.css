@@ -25,5 +25,5 @@
             background-color: #FFFFFF;
         }
 
-        /*fix fastclick寰堥毦鐐逛腑鐨刡ug*/
+        /*fix fastclick很难点中的bug*/
         label > * { pointer-events: none; }
